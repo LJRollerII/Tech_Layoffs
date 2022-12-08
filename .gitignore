@@ -9,6 +9,9 @@ __pycache__/
 data/
 Data/
 
+spreadsheets/
+Spreadsheets/
+
 # Distribution / packaging
 .Python
 build/
